@@ -39,8 +39,6 @@ The repository includes implementations of the following machine learning models
 - **Jupyter Notebook** - Interactive development environment
 - **Machine Learning Libraries** - scikit-learn, TensorFlow/Keras, pandas, numpy
 
-## Getting Started
 
-### Prerequisites
 
 
