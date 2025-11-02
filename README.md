@@ -21,6 +21,7 @@ The repository includes implementations of the following machine learning models
 - **Spam_Detection_NLP.ipynb** - Natural Language Processing for spam detection
 - **_CNN.ipynb** - Convolutional Neural Networks
 - **NLP_BASICS.ipynb** - Natural Language Processing fundamentals
+- **YOLOV8.ipynb**
 
 ### Datasets
 
