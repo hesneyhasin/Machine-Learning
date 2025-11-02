@@ -21,7 +21,7 @@ The repository includes implementations of the following machine learning models
 - **Spam_Detection_NLP.ipynb** - Natural Language Processing for spam detection
 - **_CNN.ipynb** - Convolutional Neural Networks
 - **NLP_BASICS.ipynb** - Natural Language Processing fundamentals
-- **YOLOV8.ipynb**
+- **YOLOV8.ipynb** - For Processing Images
 
 ### Datasets
 
@@ -33,6 +33,7 @@ The repository includes implementations of the following machine learning models
 - heart_disease_uci.csv
 - kmeans-apriori-pca.ipynb
 - spam.csv
+- Car-Damage Detection (Link- https://universe.roboflow.com/college-gxdrt/car-damage-detection-ha5mm/dataset/1) 
 
 ## Technologies Used
 
